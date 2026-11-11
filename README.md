@@ -4,3 +4,4 @@
 
 - zh/：中文朗读
 - fr/：法语朗读（法语版页面 https://somadao.github.io/fr/）
+- en/：英语朗读（英语版页面 https://somadao.github.io/en/）
